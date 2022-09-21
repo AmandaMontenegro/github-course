@@ -3,3 +3,5 @@
 	email = amandamontenegro2722@gmail.com
 [safe]
 	directory = C:/Users/prara/Desktop/Git
+[alias]
+	s = status
